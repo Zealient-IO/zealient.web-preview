@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:"/zealient.web-preview/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/zealient.web-preview/_next/static/chunks/3x67178f2icvo.js"
+4:I[2971,["$2","$3"],"Header"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+8:I[5500,["$2","$3"],"Image"]
+f:I[97367,["$2","$3"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$2","$3"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2","$3"],"$15"]
+:HL["/zealient.web-preview/_next/static/chunks/0e2h2b9o3-lke.css","style"]
+a:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"page-hero","children":["$","div",null,{"className":"wrap","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"className":"lead","children":"The page you are looking for does not exist or has moved."}],["$","div",null,{"children":["$","$L7",null,{"href":"/","className":"btn","children":"Back to home"}]}]]}]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$a"}}]]
+b:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/zealient.web-preview/_next/static/chunks/0e2h2b9o3-lke.css","precedence":"next"}],["$","script","script-0",{"src":"/zealient.web-preview/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/zealient.web-preview/_next/static/chunks/3x67178f2icvo.js","async":true}]],["$","html",null,{"lang":"en","className":"vKFuNW_variable","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","$L4",null,{}],["$","main",null,{"id":"main","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","section",null,{"className":"page-hero","children":["$","div",null,{"className":"wrap","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"className":"lead","children":"The page you are looking for does not exist or has moved."}],["$","div",null,{"children":["$","$L7",null,{"href":"/","className":"btn","children":"Back to home"}]}]]}]}],[]]}]}],["$","footer",null,{"className":"footer dark","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","$L7",null,{"href":"/","className":"logo","aria-label":"Zealient home","children":["$","$L8",null,{"src":"/zealient.web-preview/brand/zealient-logo-on-dark.svg","alt":"Zealient","width":263,"height":72}]}],["$","p",null,{"className":"footer-note","children":"One partner for AI, cloud, web and mobile, and data, for businesses in the Philippines and worldwide."}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Services"}],["$","ul",null,{"children":[["$","li","ai-development",{"children":["$","$L7",null,{"href":"/services/#ai-development","children":"AI development"}]}],["$","li","cloud-computing",{"children":["$","$L7",null,{"href":"/services/#cloud-computing","children":"Cloud computing"}]}],["$","li","web-and-mobile-development",{"children":["$","$L7",null,{"href":"/services/#web-and-mobile-development","children":"Web and mobile development"}]}],["$","li","database-and-api-integration",{"children":["$","$L7",null,{"href":"/services/#database-and-api-integration","children":"Database and API integration"}]}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Company"}],["$","ul",null,{"children":[[["$","li","/work/",{"children":["$","$L7",null,{"href":"/work/","children":"Work"}]}],["$","li","/about/",{"children":["$","$L7",null,{"href":"/about/","children":"About"}]}],["$","li","/contact/",{"children":["$","$L7",null,{"href":"/contact/","children":"Contact"}]}]],["$","li",null,{"children":["$","$L7",null,{"href":"/privacy/","children":"Privacy"}]}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," ","Zealient",". All rights reserved."]}],["$","span",null,{"children":"zealient.dev"}]]}]]}]}]]}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ec3013"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Zealient | From idea to AI-powered product, with one partner."}],["$","meta","1",{"name":"description","content":"Zealient is one technology partner for AI development, cloud computing, web and mobile apps, and database and API integration, for businesses in the Philippines and worldwide."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://zealient.dev/_not-found/"}],["$","meta","4",{"property":"og:title","content":"Zealient | From idea to AI-powered product, with one partner."}],["$","meta","5",{"property":"og:description","content":"Zealient is one technology partner for AI development, cloud computing, web and mobile apps, and database and API integration, for businesses in the Philippines and worldwide."}],["$","meta","6",{"property":"og:url","content":"https://zealient.dev/"}],["$","meta","7",{"property":"og:site_name","content":"Zealient"}],["$","meta","8",{"property":"og:locale","content":"en_PH"}],["$","meta","9",{"property":"og:image","content":"https://zealient.dev/brand/zealient-logo-primary.png"}],["$","meta","10",{"property":"og:image:alt","content":"Zealient"}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]}],null]}],"$L21"]}],"p":"$@22","v":null,"s":"$a"}},"a":"$@23","u":"$@24","b":"bbE4iVreN7reXVkp7mAYF"}
+25:I[27201,["$2","$3"],"IconMark"]
+11:null
+17:["$","meta","11",{"property":"og:type","content":"website"}]
+18:["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}]
+19:["$","meta","13",{"name":"twitter:title","content":"Zealient | From idea to AI-powered product, with one partner."}]
+1a:["$","meta","14",{"name":"twitter:description","content":"Zealient is one technology partner for AI development, cloud computing, web and mobile apps, and database and API integration, for businesses in the Philippines and worldwide."}]
+1b:["$","meta","15",{"name":"twitter:image","content":"https://zealient.dev/brand/zealient-logo-primary.png"}]
+1c:["$","meta","16",{"name":"twitter:image:alt","content":"Zealient"}]
+1d:["$","link","17",{"rel":"icon","href":"/zealient.web-preview/favicon.ico","sizes":"any"}]
+1e:["$","link","18",{"rel":"icon","href":"/zealient.web-preview/favicon.svg","type":"image/svg+xml"}]
+1f:["$","link","19",{"rel":"apple-touch-icon","href":"/zealient.web-preview/favicon-180.png"}]
+20:["$","$L25","20",{}]
+21:["$","meta",null,{"name":"next-size-adjust","content":""}]
+a:300
+24:true
+a:C
+23:0
+c:"$undefined"
+9:"$undefined"
+22:"$undefined"
+12:"$undefined"
